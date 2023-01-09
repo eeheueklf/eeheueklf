@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <a href="https://url.kr/49rxa2" target="_blank"><img src="https://img.shields.io/badge/Blog-2e3338?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/_uyouu" target="_blank"><img src="https://img.shields.io/badge/_uyouu-FB3958?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=eeheueklf&logoColor=white"/>
+<img src="https://img.shields.io/badge/eeheueklf-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
