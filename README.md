@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 <a href="https://url.kr/49rxa2" target="_blank"><img src="https://img.shields.io/badge/Blog-2e3338?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/_uyouu" target="_blank"><img src="https://img.shields.io/badge/_uyouu-FB3958?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://url.kr/49rxa2" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<br>
+<a href="https://url.kr/49rxa2" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white"/></a>
+<a href="https://url.kr/49rxa2" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javalogoColor=white"/></a>
