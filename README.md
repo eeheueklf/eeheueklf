@@ -11,10 +11,10 @@
 <span><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"></span>
 
 <h4>😺 Me 😺</h4>
+<a href="https://velog.io/@eeheueklf"><img src="https://img.shields.io/badge/hamrang-FFFFFF?style=flat-square&logo=Velog&logoColor=black&link=https://velog.io/@eeheueklf"/></a>
 <a href="https://url.kr/49rxa2" target="_blank"><img src="https://img.shields.io/badge/Blog-2e3338?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/_uyouu" target="_blank"><img src="https://img.shields.io/badge/_uyouu-FB3958?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <span><img src="https://img.shields.io/badge/eeheueklf-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span>
-<a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>
 <br>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeheueklf&show_icons=true&theme=dracula)-->
