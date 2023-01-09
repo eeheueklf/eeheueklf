@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <h2>💟Tech Stack💟</h2>
+  <b>💟Tech Stack💟</b>
 <a href="https://url.kr/49rxa2" target="_blank"><img src="https://img.shields.io/badge/Blog-2e3338?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/_uyouu" target="_blank"><img src="https://img.shields.io/badge/_uyouu-FB3958?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <span><img src="https://img.shields.io/badge/eeheueklf-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></span>
 <br>
-  <h2>👻Me👻</h2>
+  <b>👻Me👻</b>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"><span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></span>
