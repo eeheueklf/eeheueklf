@@ -17,6 +17,6 @@
 <a href="https://velog.io/@eeheueklf"><img src="https://img.shields.io/badge/hamrang-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <br> 
 
-<h4>백준 !</h4>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eeheueklf)](https://solved.ac/eeheueklf)
     
