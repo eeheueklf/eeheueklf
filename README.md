@@ -25,7 +25,7 @@
 | 23.03 - 24.12 | **TimeTable** 📅 | 동국대 시간표 자동 생성 시스템 | `React` | [View](https://github.com/Dice15/TimeTable-Generator-WebDeploy) |
 | 23.10 - 23.12 | **졸업할 수 있을까?** 🎓 | 졸업요건 충 여부 판정 웹 서비스 | `React` | [졸업할 수 있을까?](https://github.com/CSID-DGU/2023-1-OSSP1-1921-5) |
 | 23.06 - 23.08 | **Donggae** 🐶 | 동국대 개발자 팀 모집 커뮤니티 | `React` | [Donggae](https://github.com/juhno1023/Donggae) |
-| 23.06 - 23.08 | **RECIPICK** 🍳 | 레시피 공유 사이트 | `JSP`, `Java` | [VIEW](https://github.com/heejjinkim/Recipe_Website) |
+| 22.08 | **RECIPICK** 🍳 | 레시피 공유 사이트 | `JSP`, `Java` | [VIEW](https://github.com/heejjinkim/Recipe_Website) |
 
 
 <h4>Contact</h4>
